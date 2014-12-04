@@ -45,7 +45,7 @@ If you’re working on a Mac, you can setup a separate partition with Bootcamp w
 #### 1. Create Accounts
 You will need each of these accounts for Phase 0. The general rule of thumb is to use your first name as part of your username wherever possible and include a photo of yourself (i.e. not your cat or bike). This helps us, the Dev Academy community of staff, teachers, coaches and alumni to better support and help you. 
 
-- [Google](https://accounts.google.com/Signup)<br> It is necessary to either link your personal email address to google or to use a gmail account. **Make sure to activate Google+ on this account**. Please email <phase0@devacademy.co.nz> if you are creating or using a new email address.   
+- [Google](https://accounts.google.com/Signup)<br> It is necessary to either link your personal email address to google or to use a gmail account. If you applied to Dev Academy / have been corrosponding with us with an email address that you will not use as your primary google linked email, then please email <phase0@devacademy.co.nz> and update us with your details as soon as possible.
 
 - [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. 
 
