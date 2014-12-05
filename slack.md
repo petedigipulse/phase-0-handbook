@@ -1,7 +1,7 @@
 # Slack communication channel 
 
 [The Enspiral-Dev-Academy slack channel](https://enspiral-dev-academy.slack.com/messages/general/) is where most of our communications will take place. 
-When you join slack you will be automatically joined to our core channels:
+First off, you'll need an invitation to join the channel so have a dig around your inbox and filtered folders for the invitation. When you find it and join up, you will be auto automatically added to our core channels:
 
 1. **A cohort specific channel** : For cohort communication.. say for example finding a partner to pair with.
 2. **A range of Q&A channels** : (e.g. Ruby-questions, C# questions).. where you can ask for help on a specific thing. 
