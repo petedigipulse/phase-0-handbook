@@ -59,12 +59,11 @@ You are expected to pair with a peer a number of times each unit. See [Peer-Pair
 ## Submissions  
 You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.
 
-### Challenges  
+## Challenges  
 Completing challenges does not mean that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest, best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.
 
 If you are starting as a bashful beginner, your attempts may not even yield a working solution.  This is OK.  The most important thing we need to see is your engagement, your dedication to learning the material.  If your solution ends up being 30 lines of pseudocode and you don't know where to begin, make a comment saying where you are stuck and submit it.  Then reach out to your cohort mates to see if anyone has solved the challenge and pair with them.
-
-***
+  
 The objectives and challenges for each unit are not suggestions, and they are not optional.  These are expectations that we have of you in order for you to succeed and thrive during Phase 0, which will determine whether or not you’ll thrive during phases 1-3 at EDA.
 
 We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. [See Contacts](contact-and-support-list.md)
