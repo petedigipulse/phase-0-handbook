@@ -35,10 +35,10 @@ Slack is a communication channel where you can chat to your peers and ask for he
 1. **A cohort specific channel** : For cohort communication.. say for example finding a partner to pair with.
 2. **A range of Q&A channels** : (e.g. Ruby-questions, C# questions).. where you can ask for help on a specific thing. 
 3. **A general channel** : Stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.. that sort of stuff.
-4. **A random channel** - for random stuff like Web development jokes.
+4. **A random channel** : for random stuff like Web development jokes.
 5. **An ideas-and-feedback channel** : For cool things and improvements.  
 
-For a little more info on our slack-usage, check out our [Slack intro guide](slack-intro-guide)
+For a little more info on our slack-usage, check out our [Slack intro guide](slack.md)
 
 ##### Google-group 
 This is essentially like a mailing list for your cohort and is used to grant permissions to the student drive - home to digital copies of many of the books you will want to read.
