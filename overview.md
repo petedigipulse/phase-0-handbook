@@ -4,7 +4,7 @@
 
 
 ## Expectations
-Phase-0 is an integral part of the Dev Academy program. You will be expected to put in at least 15-30 hours of work per week (depending on experience) and at times you will find it overwhelming challenging - especially working remotely. We try to help you find the balance between taking responsibility for your own education, tracking your own progress, understanding and expressing your needs, and being supported and held accountable by us. You’re learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process.  Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at EDA.
+Phase-0 is an integral part of the Dev Academy program. You will be expected to put in at least 20-40 hours of work per week (depending on experience) and at times you will find it overwhelming challenging - especially working remotely. We try to help you find the balance between taking responsibility for your own education, tracking your own progress, understanding and expressing your needs, and being supported and held accountable by us. You’re learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process.  Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at EDA.
 
 You can track your own progress by checking in to see if you’re fulfilling expectations, completing challenges on time, and if you’re able to demonstrate the learning competencies. 
 
